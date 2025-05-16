@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/cursojava.iml" filepath="$PROJECT_DIR$/.idea/cursojava.iml" />
       <module fileurl="file://$PROJECT_DIR$/entradadedados/entradadedados.iml" filepath="$PROJECT_DIR$/entradadedados/entradadedados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" filepath="$PROJECT_DIR$/estruturacondicional/estruturacondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturarepetitivawhile/estruturarepetitivawhile.iml" filepath="$PROJECT_DIR$/estruturarepetitivawhile/estruturarepetitivawhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/saidadedados/saidadedados.iml" filepath="$PROJECT_DIR$/saidadedados/saidadedados.iml" />
     </modules>
   </component>
